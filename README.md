@@ -1,11 +1,10 @@
 # Tarzan - chrome-interfaces-interception
 
-一个chrome浏览器接口拦截插件，提供接口拦截、去重、接口命名以及下载为md格式的功能
+一个简单的chrome浏览器接口拦截插件，提供接口拦截、去重、接口命名以及下载为md格式的功能
 
 #####  截图
 
-![image-20191104170458839](/Users/xd/Library/Application Support/typora-user-images/image-20191104170458839.png)
-
+![截图](./screenshot.png)
 
 
 ##### 使用方式
